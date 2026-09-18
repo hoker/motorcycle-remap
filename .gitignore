@@ -1,0 +1,29 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.env.*
+
+# ECU / proprietary (never publish)
+*.bin
+*.BIN
+*.hex
+*.HEX
+*.s19
+*.mot
+*.xdf
+*.XDF
+
+# Local junk
+*.bak
+*.tmp
